@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ee3926bc.css",
-    "main.js": "/Portfolio/static/js/main.5fa77706.js",
+    "main.css": "/Portfolio/static/css/main.0ade74ce.css",
+    "main.js": "/Portfolio/static/js/main.5de17f49.js",
     "static/js/496.08440624.chunk.js": "/Portfolio/static/js/496.08440624.chunk.js",
     "static/media/planet_earth.mp4": "/Portfolio/static/media/planet_earth.7ffef67970a9594becd2.mp4",
     "static/media/Hero.png": "/Portfolio/static/media/Hero.b57b99472ab2283f47ca.png",
     "static/media/Earth_Hologram.mp4": "/Portfolio/static/media/Earth_Hologram.09f8f448ef69381ff795.mp4",
+    "static/media/Hero_1.png": "/Portfolio/static/media/Hero_1.3c0516898868ab7a4df7.png",
     "static/media/img4.png": "/Portfolio/static/media/img4.f96cbf65d6bc07549db3.png",
     "static/media/img5.png": "/Portfolio/static/media/img5.3299720e79ce5076ae72.png",
     "static/media/purpose.png": "/Portfolio/static/media/purpose.f83611de404604078f0a.png",
@@ -28,12 +29,12 @@
     "index.html": "/Portfolio/index.html",
     "static/media/Test.md": "/Portfolio/static/media/Test.365899a14615a4eb4717.md",
     "static/media/microphone.svg": "/Portfolio/static/media/microphone.947cf5858612c399dc29df6ef1a6432d.svg",
-    "main.ee3926bc.css.map": "/Portfolio/static/css/main.ee3926bc.css.map",
-    "main.5fa77706.js.map": "/Portfolio/static/js/main.5fa77706.js.map",
+    "main.0ade74ce.css.map": "/Portfolio/static/css/main.0ade74ce.css.map",
+    "main.5de17f49.js.map": "/Portfolio/static/js/main.5de17f49.js.map",
     "496.08440624.chunk.js.map": "/Portfolio/static/js/496.08440624.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee3926bc.css",
-    "static/js/main.5fa77706.js"
+    "static/css/main.0ade74ce.css",
+    "static/js/main.5de17f49.js"
   ]
 }
