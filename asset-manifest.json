@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.0ade74ce.css",
-    "main.js": "/Portfolio/static/js/main.9e5cd61d.js",
+    "main.js": "/Portfolio/static/js/main.59c82f74.js",
     "static/js/496.08440624.chunk.js": "/Portfolio/static/js/496.08440624.chunk.js",
     "static/media/planet_earth.mp4": "/Portfolio/static/media/planet_earth.7ffef67970a9594becd2.mp4",
     "static/media/Hero.png": "/Portfolio/static/media/Hero.b57b99472ab2283f47ca.png",
@@ -21,6 +21,7 @@
     "static/media/marketing-strategies.md": "/Portfolio/static/media/marketing-strategies.f7eb29506644df7bd4c7.md",
     "static/media/data-analytics.md": "/Portfolio/static/media/data-analytics.09c048fff9765091f9de.md",
     "static/media/implementing-feedback-systems.md": "/Portfolio/static/media/implementing-feedback-systems.a92eaaa5ffa3a5a5482b.md",
+    "static/media/computer-aided-drafting-cad-platforms-and-future-trends.md": "/Portfolio/static/media/computer-aided-drafting-cad-platforms-and-future-trends.d8f3cc21afce9bddc240.md",
     "static/media/project-management.md": "/Portfolio/static/media/project-management.2b8b8f104ee3ad968867.md",
     "static/media/artificial-intelligence-unveiling-the-power-of-data.md": "/Portfolio/static/media/artificial-intelligence-unveiling-the-power-of-data.01f9154dbf99ec7d60c8.md",
     "static/media/understanding-financial-statements-a-comprehensive-guide.md": "/Portfolio/static/media/understanding-financial-statements-a-comprehensive-guide.36dba948a07f815eac58.md",
@@ -30,11 +31,11 @@
     "static/media/Test.md": "/Portfolio/static/media/Test.365899a14615a4eb4717.md",
     "static/media/microphone.svg": "/Portfolio/static/media/microphone.947cf5858612c399dc29df6ef1a6432d.svg",
     "main.0ade74ce.css.map": "/Portfolio/static/css/main.0ade74ce.css.map",
-    "main.9e5cd61d.js.map": "/Portfolio/static/js/main.9e5cd61d.js.map",
+    "main.59c82f74.js.map": "/Portfolio/static/js/main.59c82f74.js.map",
     "496.08440624.chunk.js.map": "/Portfolio/static/js/496.08440624.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ade74ce.css",
-    "static/js/main.9e5cd61d.js"
+    "static/js/main.59c82f74.js"
   ]
 }
