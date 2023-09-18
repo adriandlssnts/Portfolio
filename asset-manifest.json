@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b17091ba.css",
-    "main.js": "/Portfolio/static/js/main.2ad72cef.js",
+    "main.js": "/Portfolio/static/js/main.1914d607.js",
     "static/js/522.6b1965de.chunk.js": "/Portfolio/static/js/522.6b1965de.chunk.js",
     "static/media/planet_earth.mp4": "/Portfolio/static/media/planet_earth.7ffef67970a9594becd2.mp4",
     "static/media/Hero.png": "/Portfolio/static/media/Hero.b57b99472ab2283f47ca.png",
@@ -18,6 +18,7 @@
     "static/media/CI.png": "/Portfolio/static/media/CI.df0385b45db0a294c3ce.png",
     "static/media/img2.png": "/Portfolio/static/media/img2.7253bac17447e9314914.png",
     "static/media/neural-networks-unlocking-the-power-of-artificial-intelligence.md": "/Portfolio/static/media/neural-networks-unlocking-the-power-of-artificial-intelligence.52e3f3d50ab2cc80061d.md",
+    "static/media/machine-learning-tools-potential-projects-and-real-life-examples.md": "/Portfolio/static/media/machine-learning-tools-potential-projects-and-real-life-examples.158cb99225bafadc2460.md",
     "static/media/marketing-strategies.md": "/Portfolio/static/media/marketing-strategies.f7eb29506644df7bd4c7.md",
     "static/media/data-analytics.md": "/Portfolio/static/media/data-analytics.09c048fff9765091f9de.md",
     "static/media/implementing-feedback-systems.md": "/Portfolio/static/media/implementing-feedback-systems.a92eaaa5ffa3a5a5482b.md",
@@ -33,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.b17091ba.css",
-    "static/js/main.2ad72cef.js"
+    "static/js/main.1914d607.js"
   ]
 }
