@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.7ef57d0f.css",
-    "main.js": "/Portfolio/static/js/main.57ea4970.js",
+    "main.js": "/Portfolio/static/js/main.addd33b9.js",
     "static/js/522.6b1965de.chunk.js": "/Portfolio/static/js/522.6b1965de.chunk.js",
     "static/media/planet_earth.mp4": "/Portfolio/static/media/planet_earth.7ffef67970a9594becd2.mp4",
     "static/media/Hero.png": "/Portfolio/static/media/Hero.b57b99472ab2283f47ca.png",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.7ef57d0f.css",
-    "static/js/main.57ea4970.js"
+    "static/js/main.addd33b9.js"
   ]
 }
