@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e9974f83.css",
+    "main.css": "/Portfolio/static/css/main.bd593331.css",
     "main.js": "/Portfolio/static/js/main.555a253e.js",
     "static/js/522.6b1965de.chunk.js": "/Portfolio/static/js/522.6b1965de.chunk.js",
     "static/media/planet_earth.mp4": "/Portfolio/static/media/planet_earth.7ffef67970a9594becd2.mp4",
@@ -33,7 +33,7 @@
     "static/media/microphone.svg": "/Portfolio/static/media/microphone.947cf5858612c399dc29df6ef1a6432d.svg"
   },
   "entrypoints": [
-    "static/css/main.e9974f83.css",
+    "static/css/main.bd593331.css",
     "static/js/main.555a253e.js"
   ]
 }
