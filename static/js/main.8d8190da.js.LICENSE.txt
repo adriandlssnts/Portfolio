@@ -123,8 +123,6 @@ License: MIT
  * A port of inflection-js to node.js module.
  */
 
-/*! @license DOMPurify 2.4.7 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.4.7/LICENSE */
-
 /*! Native Promise Only
                                              v0.8.1 (c) Kyle Simpson
                                              MIT License: http://getify.mit-license.org
