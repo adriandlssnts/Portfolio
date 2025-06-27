@@ -44,4 +44,4 @@ Data analytics has numerous applications across industries:
 
 ## Conclusion
 
-Data analytics is a powerful discipline that empowers organizations to transform raw data into actionable insights. By leveraging data analytics techniques, organizations can gain a competitive edge, make informed decisions, and unlock new opportunities. Understanding the data analytics
+Data analytics is a powerful discipline that empowers organizations to transform raw data into actionable insights. By leveraging data analytics techniques, organizations can gain a competitive edge, make informed decisions, and unlock new opportunities. Understanding the data analytics.
