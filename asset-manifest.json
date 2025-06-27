@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./public/static/css/main.72da6811.css",
-    "main.js": "./public/static/js/main.8d8190da.js",
+    "main.css": "./public/static/css/main.c869e36f.css",
+    "main.js": "./public/static/js/main.52a7af0d.js",
     "static/js/496.a79bc843.chunk.js": "./public/static/js/496.a79bc843.chunk.js",
     "static/media/planet_earth.mp4": "./public/static/media/planet_earth.7ffef67970a9594becd2.mp4",
     "static/media/Hero.png": "./public/static/media/Hero.b57b99472ab2283f47ca.png",
@@ -31,12 +31,12 @@
     "index.html": "./public/index.html",
     "static/media/Test.md": "./public/static/media/Test.365899a14615a4eb4717.md",
     "static/media/microphone.svg": "./public/static/media/microphone.947cf5858612c399dc29df6ef1a6432d.svg",
-    "main.72da6811.css.map": "./public/static/css/main.72da6811.css.map",
-    "main.8d8190da.js.map": "./public/static/js/main.8d8190da.js.map",
+    "main.c869e36f.css.map": "./public/static/css/main.c869e36f.css.map",
+    "main.52a7af0d.js.map": "./public/static/js/main.52a7af0d.js.map",
     "496.a79bc843.chunk.js.map": "./public/static/js/496.a79bc843.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72da6811.css",
-    "static/js/main.8d8190da.js"
+    "static/css/main.c869e36f.css",
+    "static/js/main.52a7af0d.js"
   ]
 }
