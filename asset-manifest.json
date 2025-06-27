@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./public/static/css/main.6a6a3c42.css",
-    "main.js": "./public/static/js/main.2f419f41.js",
-    "static/js/496.7f57dd26.chunk.js": "./public/static/js/496.7f57dd26.chunk.js",
+    "main.css": "./public/static/css/main.51162119.css",
+    "main.js": "./public/static/js/main.e790a728.js",
+    "static/js/522.7d3b1c5d.chunk.js": "./public/static/js/522.7d3b1c5d.chunk.js",
     "static/media/planet_earth.mp4": "./public/static/media/planet_earth.7ffef67970a9594becd2.mp4",
     "static/media/Hero.png": "./public/static/media/Hero.b57b99472ab2283f47ca.png",
     "static/media/Earth_Hologram.mp4": "./public/static/media/Earth_Hologram.09f8f448ef69381ff795.mp4",
@@ -30,13 +30,10 @@
     "static/media/TermsofUse": "./public/static/media/TermsofUse.d1f2df72b6b0fab28435",
     "index.html": "./public/index.html",
     "static/media/Test.md": "./public/static/media/Test.365899a14615a4eb4717.md",
-    "static/media/microphone.svg": "./public/static/media/microphone.947cf5858612c399dc29df6ef1a6432d.svg",
-    "main.6a6a3c42.css.map": "./public/static/css/main.6a6a3c42.css.map",
-    "main.2f419f41.js.map": "./public/static/js/main.2f419f41.js.map",
-    "496.7f57dd26.chunk.js.map": "./public/static/js/496.7f57dd26.chunk.js.map"
+    "static/media/microphone.svg": "./public/static/media/microphone.947cf5858612c399dc29df6ef1a6432d.svg"
   },
   "entrypoints": [
-    "static/css/main.6a6a3c42.css",
-    "static/js/main.2f419f41.js"
+    "static/css/main.51162119.css",
+    "static/js/main.e790a728.js"
   ]
 }
