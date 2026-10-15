@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6a7cc4b3.css",
-    "main.js": "/Portfolio/static/js/main.7b4b64cf.js",
+    "main.css": "/Portfolio/static/css/main.32ff27fd.css",
+    "main.js": "/Portfolio/static/js/main.3febd576.js",
     "static/js/685.b4e87329.chunk.js": "/Portfolio/static/js/685.b4e87329.chunk.js",
     "static/media/planet_earth.mp4": "/Portfolio/static/media/planet_earth.7ffef67970a9594becd2.mp4",
     "static/media/Hero.png": "/Portfolio/static/media/Hero.b57b99472ab2283f47ca.png",
@@ -21,14 +21,14 @@
     "static/media/Employee Sample Data.xlsx": "/Portfolio/static/media/Employee Sample Data.54b71a0deb85318c7dde.xlsx",
     "static/media/CI.png": "/Portfolio/static/media/CI.df0385b45db0a294c3ce.png",
     "static/media/img2.png": "/Portfolio/static/media/img2.7253bac17447e9314914.png",
+    "static/media/README.md": "/Portfolio/static/media/README.d73f72b11ce7a3ffe34a.md",
     "static/media/PrivacyPolicy": "/Portfolio/static/media/PrivacyPolicy.1c5509022aba8021be6e",
     "static/media/TermsofUse": "/Portfolio/static/media/TermsofUse.d1f2df72b6b0fab28435",
-    "static/media/README.md": "/Portfolio/static/media/README.708fa7e6fac36ae2b5f5.md",
     "index.html": "/Portfolio/index.html",
     "static/media/microphone.svg": "/Portfolio/static/media/microphone.947cf5858612c399dc29df6ef1a6432d.svg"
   },
   "entrypoints": [
-    "static/css/main.6a7cc4b3.css",
-    "static/js/main.7b4b64cf.js"
+    "static/css/main.32ff27fd.css",
+    "static/js/main.3febd576.js"
   ]
 }
